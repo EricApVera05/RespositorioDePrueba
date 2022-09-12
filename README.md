@@ -11,6 +11,16 @@ Primer repositorio de GitHub
 + Elemento 2
 
 Lista ordenada
-1. Paso 1
-2. Paso 2
-3. Paso 3
+1. Paso **1**
+2. Paso **2**
+..*Paso 1
+..*Paso 2
+3. Paso **3**
+
+bdainwduiwndiywbaduwandawfdwafegqwa
+
+bfuiasbfniklwajkdbwaiuf ak,ndciukdwajb
+<html>
+  <head>
+  </head>
+ </html>
