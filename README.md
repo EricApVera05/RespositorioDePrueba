@@ -30,3 +30,11 @@ bfuiasbfniklwajkdbwaiuf ak,ndciukdwajb
 
 
 ![descarga](https://github.com/EricApVera05/RespositorioDePrueba/blob/main/descarga.jpg "Imagen Saul Goodman")
+
+
+| Titulo | Titulo 2 | Titulo 3 |
+|--------|:--------:|---------:|
+|Eric    | Aparicio | Vera     |
+|Nombre2 |Apellido2 | Apellido3|
+|Col 3   | está alineada| derecha|
+|Col2| está alineada | centro|
